@@ -11,4 +11,9 @@ gunakan akun login berikut
 
 `Username  : admin, Password  : admin123`
 
+gunakan node.js versi 20 agar stabil
+
+jalankan perintah 
+`node index.js`
+
 # Developer by zaya razta
